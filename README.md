@@ -2,7 +2,7 @@ I am a business administration graduate with over 5 years of experience in busin
  
 I have gained proficiency in the following :
 
-• Business intelligence 
+* Business intelligence 
 • Data Visualization (Power BI)
 • Relational database SQL
 * Machine Learning 
