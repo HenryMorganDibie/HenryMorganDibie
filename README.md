@@ -5,7 +5,7 @@ I have gained proficiency in the following :
 * Data Analysis
 • Business Intelligence
 • Data Visualization (Power BI)
-• Relational database SQL
+• Relational database SQL (SQL Server Management Studio), (MySQL)
 
 * Machine Learning 
 • Scikit Learn
