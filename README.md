@@ -1,4 +1,4 @@
-I am a business administration graduate with over 5 years of experience in business growth and management. My engagement in company management has given me skills in sales, marketing, management, and customer service. After a few years of my experiences, I became increasingly conscious of the importance of data analytics for business success, which motivated me to improve my Data Analysis and Machine Learning abilities through structured training and courses.
+I am a business administration graduate with over 5 years of experience in business growth and management. My engagement in company management has given me skills in sales, marketing, management, and customer service. After a few years of my experiences, I became increasingly conscious of the importance of data analytics for business success, which motivated me to improve my Data Science and Analytics abilities through structured training and courses.
  
 I have gained proficiency in the following :
 
