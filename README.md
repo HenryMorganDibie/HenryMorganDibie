@@ -1,7 +1,7 @@
 # Henry Dibie
 
 **ML Systems Engineer · Quant Analytics · Credit Risk**  
-*Nigeria — available for remote & international engagements*
+*available for remote & international engagements*
 
 Production-grade ML engineer with 5+ years delivering end-to-end data systems across fintech, telecom, fixed income, and credit risk. I build things that run in production — live data ingestion, automated forecasting, risk decisioning engines, and analytical APIs — not just notebooks.
 
@@ -62,4 +62,4 @@ GenAI pipelines (Whisper → OpenAI embeddings → FAISS → structured outputs)
 
 Open to freelance, contract & long-term partnerships, full time roles (Remote, Hybrid & Onsite) — ML systems, credit risk modelling, quant analytics, and data infrastructure.
 
-📬 [Upwork Profile](https://www.upwork.com/freelancers/~yourprofileid) · [LinkedIn](https://www.linkedin.com/in/kinghenrymorgan/) · [Medium](https://medium.com/@KingHenryMorgansDiary)
+📬 [LinkedIn](https://www.linkedin.com/in/kinghenrymorgan/) · [Medium](https://medium.com/@KingHenryMorgansDiary)
