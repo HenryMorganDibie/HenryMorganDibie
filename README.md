@@ -55,7 +55,7 @@ Firebase multi-vendor marketplace backends, Chrome extensions, PWAs, and Android
 |---|---|
 | [`mvno-intelligence-hub`](https://github.com/HenryMorganDibie/mvno-intelligence-hub) | Azure-deployed subscriber analytics — Prophet forecasting, TimescaleDB, FastAPI, live SFTP ingestion every 15 mins |
 | [`chirp-api-refactoring`](https://github.com/HenryMorganDibie/chirp-api-refactoring) | Production audit & refactor of a Python gRPC monorepo — service decomposition, interface contracts, rapid delivery under assessment conditions |
-| [`talentpulse-salary-pipeline`](https://github.com/HenryMorganDibie/talentpulse-salary-pipeline) | End-to-end ML salary prediction pipeline — feature engineering, model training, inference API |
+| [`talentpulse-salary-ml`](https://github.com/HenryMorganDibie/talentpulse-salary-ml) | End-to-end ML salary prediction pipeline — feature engineering, model training, inference API |
 
 ### Products & SaaS
 
