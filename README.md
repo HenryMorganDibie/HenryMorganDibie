@@ -61,7 +61,7 @@ Firebase multi-vendor marketplace backends, Chrome extensions, PWAs, and Android
 
 | Project | What it does |
 |---|---|
-| [`laetiva`](https://github.com/HenryMorganDibie/laetiva) | Firebase multi-vendor marketplace backend — 67/67 and 61/61 acceptance tests across two milestones, real client delivery |
+| [`laetiva-backend-sandbox`](https://github.com/HenryMorganDibie/laetiva-backend-sandbox) | Firebase multi-vendor marketplace backend — 67/67 and 61/61 acceptance tests across two milestones, real client delivery |
 | [`the-scribe`](https://github.com/HenryMorganDibie/the-scribe) | AI writing assistant for Christian authors — FastAPI + PostgreSQL + pgvector, RAG-powered Manuscript Companion Chat, Voice Drift Analytics, mobile-responsive |
 | [`scrollbreak`](https://github.com/HenryMorganDibie/scrollbreak) | Full-stack doomscrolling intervention — Chrome extension, PWA, Android app, Express backend |
 | [`Ecclesia-CheckIn`](https://github.com/HenryMorganDibie/Ecclesia-CheckIn) | QR-based fraud-proof attendance system — live deployment to a real church community |
