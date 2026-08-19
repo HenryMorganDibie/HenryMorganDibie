@@ -12,7 +12,7 @@ Top Rated on Upwork · 100% Job Success Score
 ## What I Build
 
 **Backend & API Engineering**
-FastAPI and gRPC services, PostgreSQL schema design, auth flows, and CI pipelines built for production, not demos. Refactored a gRPC monorepo at production scale — N+1 query elimination (31→3 per feed), bcrypt migration with transparent password rehashing, unified error taxonomy, request tracing. Built AjoLedger's coordination backend for rotating savings groups and schema-watch, a local proxy that diffs API contract shape to catch breaking changes before they ship.
+Cloud Functions, FastAPI, and gRPC services — Firestore/PostgreSQL schema and security-rule design, auth flows, and CI pipelines built for production, not demos. Built the backend for a multi-vendor marketplace platform end-to-end: 87 Cloud Functions, a provider-agnostic subscription engine spanning three payment processors (Paystack, Flutterwave, Stripe) on one shared idempotent webhook core, a five-tier role-based admin system, a scored chat-moderation engine, and 390+ acceptance tests with denial-path coverage — plus a security review that caught and fixed a Firestore rules privilege-escalation bug and a mobile-app auth bypass. Also refactored a gRPC monorepo at production scale (N+1 query elimination, bcrypt migration, unified error taxonomy, request tracing) and built AjoLedger's coordination backend for rotating savings groups and schema-watch, a local proxy that diffs API contract shape to catch breaking changes before they ship.
 
 **Agentic AI & RAG Systems**
 LangGraph multi-agent pipelines (supervisor + sub-agent architectures), production RAG backends with pgvector + BM25 + cross-encoder reranking, LLM-powered analytics assistants, Manuscript Companion Chat with Voice Drift Analytics, and GenAI workflows with structured outputs. Built across Groq/Llama, OpenAI, and custom fine-tuned models. Audited LoRA fine-tunes at production scale — diagnosed a ~50pp BFCL regression on a Qwen-2.5-7B model.
@@ -48,6 +48,7 @@ Firebase multi-vendor marketplace backends, Chrome extensions, PWAs, and Android
 
 | Project | What it does |
 |---|---|
+| [`laetiva-backend-sandbox`](https://github.com/HenryMorganDibie/laetiva-backend-sandbox) | Backend + integration layer for a multi-vendor marketplace platform — 87 Cloud Functions, 700+ lines of Firestore/Storage security rules, a 3-provider subscription/payment engine on one shared idempotent webhook core, role-based admin access, scored chat moderation, 390+ acceptance tests with denial-path coverage |
 | [`chirp-api-refactoring`](https://github.com/HenryMorganDibie/chirp-api-refactoring) | Production audit & refactor of a Python gRPC monorepo — N+1 query elimination, bcrypt migration, unified error taxonomy, CI with affected-detection |
 | [`ajoledger-api`](https://github.com/HenryMorganDibie/ajoledger-api) | FastAPI + PostgreSQL backend for rotating savings groups (ajo/esusu/adashe) — tracks contributions, rotation, and disputes without ever holding funds |
 | [`mvno-intelligence-hub`](https://github.com/HenryMorganDibie/mvno-intelligence-hub) | Azure-deployed subscriber analytics API — Prophet forecasting, TimescaleDB, FastAPI, live SFTP ingestion every 15 mins |
@@ -74,7 +75,6 @@ Firebase multi-vendor marketplace backends, Chrome extensions, PWAs, and Android
 
 | Project | What it does |
 |---|---|
-| [`laetiva-backend-sandbox`](https://github.com/HenryMorganDibie/laetiva-backend-sandbox) | Firebase multi-vendor marketplace backend — 67/67 and 61/61 acceptance tests across two milestones, real client delivery |
 | [`the-scribe`](https://github.com/HenryMorganDibie/the-scribe) | AI writing assistant for Christian authors — FastAPI + PostgreSQL + pgvector, RAG-powered Manuscript Companion Chat, Voice Drift Analytics, mobile-responsive |
 | [`ajoledger-web`](https://github.com/HenryMorganDibie/ajoledger-web) | PWA frontend for AjoLedger — phone+email sign-in, group creation, invitations, payment matrix, proof-of-payment upload |
 | [`scrollbreak`](https://github.com/HenryMorganDibie/scrollbreak) | Full-stack doomscrolling intervention — Chrome extension, PWA, Android app, Express backend |
