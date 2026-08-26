@@ -27,7 +27,7 @@ Scorecard development, PD/LGD/EAD modelling, and portfolio analytics. XGBoost/Lo
 dbt, Prefect, PySpark, SFTP ingestion pipelines, Snowflake Semantic Layer + dbt MetricFlow, macroeconomic data extraction across 54 African countries. I connect pipelines to decision surfaces.
 
 **Full-Stack Products**
-Firebase multi-vendor marketplace backends, Chrome extensions, PWAs, and Android apps. I build products end-to-end when the problem demands it.
+Firebase multi-vendor marketplace backends, Chrome extensions, PWAs, and Android apps. I build products end-to-end when the problem demands it. On one private client engagement I owned the entire stack: the Firebase backend described above, a React Native/Expo marketplace app (customer + vendor, iOS/Android/Web) with real-time chat, cart/checkout, order lifecycle tracking, and subscription-gated feature tiers, plus a companion Next.js vendor billing portal and the public marketing site/CMS in front of it.
 
 ---
 
@@ -49,6 +49,7 @@ Firebase multi-vendor marketplace backends, Chrome extensions, PWAs, and Android
 | Project | What it does |
 |---|---|
 | **Multi-vendor marketplace backend** *(private client project)* | 120 Cloud Functions, an 811-line Firestore/Storage security-rules layer, a 3-provider subscription/payment engine (Paystack/Flutterwave/Stripe) on one shared idempotent webhook core, 5-tier role-based admin access, scored chat moderation, 491 acceptance tests across 14 suites with denial-path coverage |
+| **Multi-vendor marketplace app** *(same private client, full stack)* | React Native/Expo customer + vendor app on top of the backend above: real-time chat across 4 conversation types, catalog/cart/checkout, order lifecycle tracking, subscription-gated feature tiers, vendor analytics dashboards, plus a Next.js vendor billing portal and public marketing site/CMS |
 | [`chirp-api-refactoring`](https://github.com/HenryMorganDibie/chirp-api-refactoring) | Production audit & refactor of a Python gRPC monorepo — N+1 query elimination, bcrypt migration, unified error taxonomy, CI with affected-detection |
 | [`ajoledger-api`](https://github.com/HenryMorganDibie/ajoledger-api) | FastAPI + PostgreSQL backend for rotating savings groups (ajo/esusu/adashe) — tracks contributions, rotation, and disputes without ever holding funds |
 | [`mvno-intelligence-hub`](https://github.com/HenryMorganDibie/mvno-intelligence-hub) | Azure-deployed subscriber analytics API — Prophet forecasting, TimescaleDB, FastAPI, live SFTP ingestion every 15 mins |
