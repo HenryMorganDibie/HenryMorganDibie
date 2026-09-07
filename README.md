@@ -78,7 +78,7 @@ Firebase multi-vendor marketplace backends, Chrome extensions, PWAs, and Android
 |---|---|
 | [`the-scribe`](https://github.com/HenryMorganDibie/the-scribe) | AI writing assistant for Christian authors — FastAPI + PostgreSQL + pgvector, RAG-powered Manuscript Companion Chat, Voice Drift Analytics, mobile-responsive |
 | [`ajoledger-web`](https://github.com/HenryMorganDibie/ajoledger-web) | PWA frontend for AjoLedger — phone+email sign-in, group creation, invitations, payment matrix, proof-of-payment upload |
-| [`scrollbreak`](https://github.com/HenryMorganDibie/scrollbreak) | Full-stack doomscrolling intervention — Chrome extension, PWA, Android app, Express backend |
+| [`interview-copilot`](https://github.com/HenryMorganDibie/interview-copilot) | Local-first interview-prep desktop app (Tauri/Rust): native audio capture, RAG-grounded answers pulled from your real CV/GitHub, checked against an evaluation harness so it never fabricates experience |
 | [`subscription-manager`](https://github.com/HenryMorganDibie/subscription-manager) | Track and manage recurring subscriptions |
 | [`Ecclesia-CheckIn`](https://github.com/HenryMorganDibie/Ecclesia-CheckIn) | QR-based fraud-proof attendance system — live deployment to a real church community |
 
