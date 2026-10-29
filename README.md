@@ -86,7 +86,7 @@ Firebase multi-vendor marketplace backends, Chrome extensions, PWAs, and Android
 
 ## Stack
 
-**Languages:** Python · R · SQL · JavaScript
+**Languages:** Python · R · SQL · JavaScript · Golang
 **Backend & APIs:** FastAPI · Express · gRPC · PostgreSQL · SQLAlchemy · REST/GraphQL · Auth & Session Design · CI/CD
 **ML/Forecasting:** XGBoost · LightGBM · Prophet · Darts · Scikit-Learn · PyTorch · SHAP
 **Agentic & AI:** LangGraph · LangChain · pgvector · FAISS · OpenAI · Groq/Llama · Whisper · RAG pipelines
